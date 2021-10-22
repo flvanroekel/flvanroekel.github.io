@@ -28,7 +28,7 @@
 	}
 
 	ol, ul {
-		list-style: bold;
+		list-style: none;
 	}
 
 	blockquote, q {
